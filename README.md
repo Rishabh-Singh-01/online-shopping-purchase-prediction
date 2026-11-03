@@ -197,11 +197,12 @@ online-shopping-purchase-prediction/
 ├── README.md
 ├── test_data.csv
 ├── model_evaluation_results.csv
+├── online_shoppers_model_training.ipynb
 │
 └── model/
     ├── logistic_regression.joblib
     ├── decision_tree.joblib
-    ├── k_nearest_neighbors.joblib
+    ├── k-nearest_neighbors.joblib
     ├── gaussian_naive_bayes.joblib
     └── support_vector_machine.joblib
 ```
